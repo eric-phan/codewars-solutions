@@ -2,7 +2,7 @@
 This repo contains the daily coding challenges I complete on codewars.com.
 
 
-![alt tag](codewars-solutions/pictures/Codewars.JPG)
+![alt tag](pictures/Codewars.JPG)
 
 ## How It's Made:
 
