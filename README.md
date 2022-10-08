@@ -1,33 +1,23 @@
-# CodeWars Challenges
+# CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Ultracire" >Visit Here</a> 
 This repo contains the daily coding challenges I complete on codewars.com.
 
-**Link to project:** https://www.codewars.com/users/Ultracire
 
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
-**Tech used:** JavaScript
+**Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Codewars allows me to work on challenging coding problems and apply my DSA knowledge!
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+After submitting a solution, I analyze it and look to the community for suggestions. I continually try to tinker the code to make it more efficient and readable. 
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+From doing these challenges, I have learned to be consistent and persistent: if the first solution does not work, iterate through other options, try to look at the problem from different angles. I learned that I have a long way ahead to my desired mastery of JS and DSA, but I will keep putting in the effort every day to achieve my coding goals.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
 
