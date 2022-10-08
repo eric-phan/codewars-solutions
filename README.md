@@ -2,7 +2,7 @@
 This repo contains the daily coding challenges I complete on codewars.com.
 
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](codewars-solutions/pictures/Codewars.JPG)
 
 ## How It's Made:
 
