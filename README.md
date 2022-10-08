@@ -1,7 +1,7 @@
 # CodeWars Challenges
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This repo contains the daily coding challenges I complete on codewars.com.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://www.codewars.com/users/Ultracire
 
 ![alt tag](http://placecorgi.com/1200/650)
 
