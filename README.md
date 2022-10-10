@@ -1,5 +1,5 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Ultracire" >Visit Here</a> 
-This repo contains the daily coding challenges I complete on codewars.com.
+This repo contains the daily coding problems I complete on codewars.com.
 
 
 ![alt tag](pictures/Codewars.JPG)
