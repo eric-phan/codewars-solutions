@@ -16,7 +16,7 @@ After submitting a solution, I analyze it and look to the community for suggesti
 
 ## Lessons Learned:
 
-From doing these challenges, I have learned to be consistent and persistent: if the first solution does not work, iterate through other options, try to look at the problem from different angles. I learned that I have a long way ahead to my desired mastery of JS and DSA, but I will keep putting in the effort every day to achieve my coding goals.
+From doing these challenges, I have learned to be consistent and persistent: if the first solution does not work, I iterate through other options, and try to look at the problem from different angles. I learned that I have a long way ahead to my desired mastery of JS and DSA, but I will keep putting in the effort every day to achieve my coding goals.
 
 
 
