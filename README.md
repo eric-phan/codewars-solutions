@@ -12,7 +12,7 @@ Codewars allows me to work on challenging coding problems and apply my DSA knowl
 
 ## Optimizations
 
-After submitting a solution, I analyze it and look to the community for suggestions. I continually try to tinker the code to make it more efficient and readable. 
+After submitting a solution, I analyze it and look to the community for suggestions. I continually try to tinker my code to make it more efficient and readable. 
 
 ## Lessons Learned:
 
